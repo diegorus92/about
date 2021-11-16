@@ -21,11 +21,11 @@ body{
 
 @keyframes animatedBorder {
     from{
-        border: 10px white groove;  
+        border: 15px white groove;  
     }
 
     to{
-        border: 10px grey groove;
+        border: 15px grey groove;
     }
 }
 
